@@ -168,9 +168,9 @@ async def set_inverter_output_priority(token: str, secret: str, device_data, val
             param_id = 'bse_eybond_ctrl_49'
         case 6416:
             map_param_value = {
-                'Utility': '12336',
-                'Solar': '12337',
-                'SBU': '12338'
+                'Utility': '0',
+                'Solar': '1',
+                'SBU': '2'
             }
             param_value = map_param_value[value]
 
