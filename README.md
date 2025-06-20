@@ -29,8 +29,9 @@ Or use following procedure for HACS 2.0 or later to add the custom repository:
 Once installed, use Add Integration -> DESS Monitor.
 Tested with devcodes:
  - 2341
- - 2376
- - 2428
+- 2376
+- 2428
+- 6416
 
 If you have problems with the setup, create an issue with information about your inverter model and the datalogger devcode
 
